@@ -9,8 +9,10 @@ I am passionate about leveraging data and technology to solve real-world problem
 I enjoy working on projects that combine creativity and technical expertise, making data and AI more accessible, practical, and impactful — all while keeping it open and free for everyone. 🚀
 
 <b> Stay Conacted! </b>
-___
-Linkdin Email 
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemahmad98/) | 
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseemahmadcomsats@gmail.com)
+
 <!---
 codebyte17/codebyte17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
