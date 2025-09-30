@@ -1,4 +1,4 @@
-👋Hi there, I'm Ahmad
+<b>👋 Hi there, I'm Ahmad </b>
 ___
 
 I am a professional developer and currently pursuing my Master’s degree in Data Science at BHT Berlin.
