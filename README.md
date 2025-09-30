@@ -10,7 +10,7 @@ I enjoy working on projects that combine creativity and technical expertise, mak
 
 <b> Stay Conacted! </b>
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemahmad98/) | 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/waseemahmad98/) 
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waseemahmadcomsats@gmail.com)
 
 <!---
